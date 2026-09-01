@@ -1,0 +1,38 @@
+{
+    "manufacturer": "S Ajay Krishnaa",
+    "keyboard_name": "hackpad_v1",
+    "maintainer": "s-ajay-2010",
+    "bootloader": "rp2040",
+    "features": {
+        "bootmagic": true,
+        "extrakey": true,
+        "mousekey": true,
+        "nkro": true,
+        "encoder": true
+    },
+    "matrix_pins": {
+        "direct": [["GP3", "GP4", "GP2", "GP7"]]
+    },
+    "encoder": {
+        "rotary": [
+            {"pin_a": "GP6", "pin_b": "GP28"}
+        ]
+    },
+    "processor": "RP2040",
+    "url": "https://github.com/s-ajay-2010/hackpad-v1",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x0001",
+        "vid": "0xFEED"
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"matrix": [0, 0], "x": 0, "y": 0},
+                {"matrix": [0, 1], "x": 1, "y": 0},
+                {"matrix": [0, 2], "x": 2, "y": 0},
+                {"matrix": [0, 3], "x": 3, "y": 0}
+            ]
+        }
+    }
+}
