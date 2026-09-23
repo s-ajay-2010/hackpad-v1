@@ -20,7 +20,7 @@ This is my first hardware project where I've made a mini keyboard with 3 switche
 for the actual 3-d model's STEP files, check [here](CAD/)
 ## Instalation guide
 Check [qmk's guide](https://qmk.fm/guide) for firmware flashing.
-For firmware check [here](hackpad-v1_firmware)
+For firmware folder check [here](hackpad-v1_firmware)
 
 And as for the pcb part just open it on kicad and edit it or you can just export the gerber files and print them out.
 
