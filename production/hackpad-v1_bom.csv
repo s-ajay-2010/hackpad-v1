@@ -1,4 +1,4 @@
-Designator,Footprint,Quantity,Designation,Supplier and ref;
-"SW1, SW2, SW3","SW_Cherry_MX_1.00u_PCB",3,"SW_Push","Hackpad Kit";
-"SW4","RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm",1,"RotaryEncoder_Switch","Hackpad Kit";
-"U1","XIAO-Generic-Hybrid-14P-2.54-21X17.8MM",1,"MODULE-SEEEDUINO-XIAO","Hackpad Kit";
+Designator,Footprint,Quantity,Designation,Supplier and ref,
+"SW1, SW2, SW3","SW_Cherry_MX_1.00u_PCB",3,"SW_Push","Hackpad Kit"
+"SW4","RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm",1,"RotaryEncoder_Switch","Hackpad Kit"
+"U1","XIAO-Generic-Hybrid-14P-2.54-21X17.8MM",1,"MODULE-SEEEDUINO-XIAO","Hackpad Kit"
